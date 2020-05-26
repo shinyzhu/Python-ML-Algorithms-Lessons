@@ -42,7 +42,15 @@
 
 ### 讲师
 
+![dawei-wang-avatar](../../reactor/mlalg_python/dawei-wang-avatar.jpg)
 
+王大伟
+
+平安金融壹账通
+
+大数据研究院数据挖掘工程师，60w粉丝的Python爱好者社区公众号负责人。
+
+主要研究方向：自然语言处理。
 
 ### 主办方
 
