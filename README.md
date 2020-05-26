@@ -42,7 +42,7 @@
 
 ### 讲师
 
-![dawei-wang-avatar](../../reactor/mlalg_python/dawei-wang-avatar.jpg)
+![dawei-wang-avatar](dawei-wang-avatar.jpg)
 
 王大伟
 
@@ -61,3 +61,11 @@
 ![ReactorShanghai](ReactorShanghai-logo.jpg)
 
 微软 Reactor 上海 是微软为构建开发者社区而提供的一个社区空间，以“予力多元化社区建设，帮助每一个开发者成就不凡”为使命，旨在通过不定期举办的技术讲座、开发者交流会面及技术沙龙和专题活动，帮助开发者和初创企业了解最新技术、学习最新知识、体验最新方案、结识业界同行、扩展职场人脉。Reactor 为开源开发者社区提供免费的活动场地，欢迎点击申请：<https://aka.ms/ReactorShanghai>
+
+## Code of Conduct
+
+Microsoft is dedicated to empowering every person and every organization on the planet to achieve more. **This includes Microsoft Reactor sites where we seek to provide a respectful, friendly, professional experience for everyone, regardless of gender, sexual orientation, physical appearance, disability, age, race or religion.** We do not tolerate any behavior that is harassing or degrading to any individual, in any form. Individuals are responsible for knowing and abiding by these standards. We encourage everyone to assist in creating a welcoming and safe environment.
+
+Please report any concerns, suspicious or disruptive activity or behavior via the [Microsoft Runs on Trust](https://www.microsoft.com/en-us/legal/compliance/integrity) website.
+
+Microsoft reserves the right to refuse admittance to or remove any person from a Reactor site at any time at its discretion.
