@@ -21,23 +21,17 @@
 
 ### 活动计划
 
-| #    | 日期    | 主题                         | 回放/报名                                     |
-| ---- | ------- | ---------------------------- | --------------------------------------------- |
-| 1    | 3月21日 | 朴素贝叶斯 Naive Bayes       | <https://www.bilibili.com/video/BV1Z741117vy> |
-| 2    | 4月29日 | 决策树 Decision Tree         | <https://www.bilibili.com/video/BV1pz411q7nF> |
-| 3    | 5月12日 | 随机森林 Random Forest       | <https://www.bilibili.com/video/BV1ra4y1e7tZ> |
-| 4    | 5月27日 | 逻辑回归 Logistic Regression | <https://www.bilibili.com/video/BV1yV411r7Nj> |
-| 5    | 6月24日 | K-邻近 KNN                   | TBA                                           |
-| 6    | 7月-日  | DBScan                       |                                               |
-| 7    | 7月-日  | K-means                      |                                               |
+| #    | 日期    | 主题                         | 视频                                                        | 代码                                           |
+| ---- | ------- | ---------------------------- | ----------------------------------------------------------- | ---------------------------------------------- |
+| 1    | 3月21日 | 朴素贝叶斯 Naive Bayes       | [BV1Z741117vy](https://www.bilibili.com/video/BV1Z741117vy) | [01-NaiveBayes](01-NaiveBayes)                 |
+| 2    | 4月29日 | 决策树 Decision Tree         | [BV1pz411q7nF](https://www.bilibili.com/video/BV1pz411q7nF) | [02-DecisionTree](02-DecisionTree)             |
+| 3    | 5月12日 | 随机森林 Random Forest       | [BV1ra4y1e7tZ](https://www.bilibili.com/video/BV1ra4y1e7tZ) | [03-RandomForest](03-RandomForest)             |
+| 4    | 5月27日 | 逻辑回归 Logistic Regression | [BV1yV411r7Nj](https://www.bilibili.com/video/BV1yV411r7Nj) | [04-LogisticRegression](04-LogisticRegression) |
+| 5    | 6月24日 | K-邻近 KNN                   | TBA                                                         | [05-KNN](05-KNN)                               |
+| 6    | 7月-日  | DBScan                       |                                                             |                                                |
+| 7    | 7月-日  | K-means                      |                                                             |                                                |
 
-### 代码目录
 
-1. [01-NaiveBayes](01-NaiveBayes)
-2. [02-DecisionTree](02-DecisionTree)
-3. [03-RandomForest](03-RandomForest)
-4. [04-LogisticRegression](04-LogisticRegression)
-5. [05-KNN](05-KNN)
 
 ---
 
