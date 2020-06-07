@@ -37,6 +37,7 @@
 2. [02-DecisionTree](02-DecisionTree)
 3. [03-RandomForest](03-RandomForest)
 4. [04-LogisticRegression](04-LogisticRegression)
+5. [05-KNN](05-KNN)
 
 ---
 
