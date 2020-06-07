@@ -21,15 +21,15 @@
 
 ### 活动计划
 
-| #    | 日期    | 主题                         | 回放/报名                                         |
-| ---- | ------- | ---------------------------- | ------------------------------------------------- |
-| 1    | 3月21日 | 朴素贝叶斯 Naive Bayes       | <https://www.bilibili.com/video/BV1Z741117vy>     |
-| 2    | 4月29日 | 决策树 Decision Tree         | <https://www.bilibili.com/video/BV1pz411q7nF>     |
-| 3    | 5月12日 | 随机森林 Random Forest       | <https://www.bilibili.com/video/BV1ra4y1e7tZ>     |
-| 4    | 5月27日 | 逻辑回归 Logistic Regression | <https://www.huodongxing.com/event/4546855237822> |
-| 5    | 6月10日 | KNN                          |                                                   |
-| 6    | 6月24日 | DBScan                       |                                                   |
-| 7    | 7月8日  | K-means                      |                                                   |
+| #    | 日期    | 主题                         | 回放/报名                                     |
+| ---- | ------- | ---------------------------- | --------------------------------------------- |
+| 1    | 3月21日 | 朴素贝叶斯 Naive Bayes       | <https://www.bilibili.com/video/BV1Z741117vy> |
+| 2    | 4月29日 | 决策树 Decision Tree         | <https://www.bilibili.com/video/BV1pz411q7nF> |
+| 3    | 5月12日 | 随机森林 Random Forest       | <https://www.bilibili.com/video/BV1ra4y1e7tZ> |
+| 4    | 5月27日 | 逻辑回归 Logistic Regression | <https://www.bilibili.com/video/BV1yV411r7Nj> |
+| 5    | 6月24日 | K-近邻 KNN                   | TBA                                           |
+| 6    | 7月-日  | DBScan                       |                                               |
+| 7    | 7月-日  | K-means                      |                                               |
 
 ### 代码目录
 
