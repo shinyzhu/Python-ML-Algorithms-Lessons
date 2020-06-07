@@ -27,7 +27,7 @@
 | 2    | 4月29日 | 决策树 Decision Tree         | <https://www.bilibili.com/video/BV1pz411q7nF> |
 | 3    | 5月12日 | 随机森林 Random Forest       | <https://www.bilibili.com/video/BV1ra4y1e7tZ> |
 | 4    | 5月27日 | 逻辑回归 Logistic Regression | <https://www.bilibili.com/video/BV1yV411r7Nj> |
-| 5    | 6月24日 | K-近邻 KNN                   | TBA                                           |
+| 5    | 6月24日 | K-邻近 KNN                   | TBA                                           |
 | 6    | 7月-日  | DBScan                       |                                               |
 | 7    | 7月-日  | K-means                      |                                               |
 
