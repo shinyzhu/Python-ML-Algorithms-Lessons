@@ -37,7 +37,7 @@
 | 4    | 5月27日 | 逻辑回归 Logistic Regression | [BV1yV411r7Nj](https://www.bilibili.com/video/BV1yV411r7Nj) | [04-LogisticRegression](04-LogisticRegression) |
 | 5    | 6月24日 | K-邻近 KNN                   | WIP                                                         | [05-KNN](05-KNN)                               |
 | 6    | 7月8日  | DBSCAN                       | WIP                                                         | [06-DBSCAN](06-DBSCAN)                         |
-| 7    | 7月24日 | K-Means                      |                                                             |                                                |
+| 7    | 7月22日 | K-Means                      |                                                             |                                                |
 
 
 
