@@ -1,3 +1,7 @@
+> Series community virtual events
+>
+> Diving Into Python Machine Learning Algorithms
+
 # Python 机器学习算法实践系列活动
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/shinyzhu/Python-ML-Algorithms-Lessons)
@@ -27,8 +31,8 @@
 | 2    | 4月29日 | 决策树 Decision Tree         | [BV1pz411q7nF](https://www.bilibili.com/video/BV1pz411q7nF) | [02-DecisionTree](02-DecisionTree)             |
 | 3    | 5月12日 | 随机森林 Random Forest       | [BV1ra4y1e7tZ](https://www.bilibili.com/video/BV1ra4y1e7tZ) | [03-RandomForest](03-RandomForest)             |
 | 4    | 5月27日 | 逻辑回归 Logistic Regression | [BV1yV411r7Nj](https://www.bilibili.com/video/BV1yV411r7Nj) | [04-LogisticRegression](04-LogisticRegression) |
-| 5    | 6月24日 | K-邻近 KNN                   | TBA                                                         | [05-KNN](05-KNN)                               |
-| 6    | 7月8日  | DBSCAN                       | TBA                                                         | [06-DBSCAN](06-DBSCAN)                         |
+| 5    | 6月24日 | K-邻近 KNN                   | WIP                                                         | [05-KNN](05-KNN)                               |
+| 6    | 7月8日  | DBSCAN                       | WIP                                                         | [06-DBSCAN](06-DBSCAN)                         |
 | 7    | 7月24日 | K-Means                      |                                                             |                                                |
 
 
