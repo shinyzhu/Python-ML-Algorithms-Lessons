@@ -28,8 +28,8 @@
 | 3    | 5月12日 | 随机森林 Random Forest       | [BV1ra4y1e7tZ](https://www.bilibili.com/video/BV1ra4y1e7tZ) | [03-RandomForest](03-RandomForest)             |
 | 4    | 5月27日 | 逻辑回归 Logistic Regression | [BV1yV411r7Nj](https://www.bilibili.com/video/BV1yV411r7Nj) | [04-LogisticRegression](04-LogisticRegression) |
 | 5    | 6月24日 | K-邻近 KNN                   | TBA                                                         | [05-KNN](05-KNN)                               |
-| 6    | 7月-日  | DBScan                       |                                                             |                                                |
-| 7    | 7月-日  | K-means                      |                                                             |                                                |
+| 6    | 7月8日  | DBSCAN                       | TBA                                                         | [06-DBSCAN](06-DBSCAN)                         |
+| 7    | 7月24日 | K-Means                      |                                                             |                                                |
 
 
 
