@@ -8,6 +8,10 @@
 
 👆点击上方按钮，部署该仓库到 [Azure Notebooks](https://cda.ms/1gf) 环境运行Jupyter脚本，全线上编写Python机器学习代码。🆓
 
+> The Azure Notebooks preview is ending and the site is retiring on September 29th, 2020. 
+>
+> 参考迁移指南：<https://notebooks.azure.com/Content/alternatives.html>
+
 该系列活动由**Python社区大咖**+**微软Reactor**+**微软DevRel**联合推出。
 
 ## 活动简介
